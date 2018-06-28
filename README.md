@@ -4,3 +4,7 @@ arduino ile geliştirilmiş mobil cihazlara entegre edilebilir bluetooth kontrol
 http://berkarat.com  sistemin uygulamaları sitemde açıklanmıştır.
 
 https://yadi.sk/i/IyYKQh9H3SFbGo   detaylı tez yazısı içeriktedir.
+
+Projenin videosu
+
+https://youtu.be/f_v3I7Ef9HE    
